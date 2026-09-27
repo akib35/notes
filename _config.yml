@@ -1,4 +1,6 @@
+title: Akib's Public Notes
 author: Akib
 theme: minima
 
-header_pages: []
+header_pages:
+  - index.md
