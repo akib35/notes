@@ -1,9 +1,5 @@
 title: akib's Notes
-author: Akib
 theme: minima
-
-minima:
-  skin: dark
 
 header_pages:
   - index.md
