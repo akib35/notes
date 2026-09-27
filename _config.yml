@@ -1,8 +1,6 @@
-title: akib's Notes
+title: akib's notes
 theme: minima
 
 header_pages:
   - index.md
 
-exclude:
-  - content
