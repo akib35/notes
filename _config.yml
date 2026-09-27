@@ -1,6 +1,4 @@
-title: Akib's Public Notes
-description: Personal blog and public notes archive.
+author: Akib
 theme: minima
 
-header_pages:
-  - index.md
+header_pages: []
