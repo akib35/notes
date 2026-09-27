@@ -1,6 +1,8 @@
-title: Akib's Public Notes
-author: Akib
+title: akib's Notes
 theme: minima
 
 header_pages:
   - index.md
+
+exclude:
+  - content
