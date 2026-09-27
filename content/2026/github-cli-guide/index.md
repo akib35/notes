@@ -4,6 +4,7 @@ date: 2026-09-24
 type: "guide"
 description: "How do I end up using github cli"
 tags: ["github", "cli", "secrets"]
+layout: post
 ---
 
 # You Need Another CLI for VCS

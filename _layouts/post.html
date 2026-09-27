@@ -1,0 +1,21 @@
+---
+layout: default
+---
+<article class="post h-entry" itemscope itemtype="http://schema.org/BlogPosting">
+
+  <header class="post-header">
+    <h1 class="post-title p-name" itemprop="name headline">{{ page.title | escape }}</h1>
+  </header>
+
+  <div class="post-content e-content" itemprop="articleBody">
+    {{ content }}
+  </div>
+
+  <hr style="margin-top: 3rem; margin-bottom: 2rem;">
+
+  <!-- Giscus Comments Container -->
+  <div class="giscus">
+    {% include giscus.html %}
+  </div>
+
+</article>

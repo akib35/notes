@@ -4,6 +4,7 @@ date: 2026-09-22
 type: "guide"
 description: "Initial steps of Playwright setup"
 tags: ["automation", "web", "playwright"]
+layout: post
 ---
 
 # Playwright or wrong
